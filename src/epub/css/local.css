@@ -19,3 +19,7 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+[epub|type~="z3998:acronym"]{
+	font-variant: all-small-caps;
+}

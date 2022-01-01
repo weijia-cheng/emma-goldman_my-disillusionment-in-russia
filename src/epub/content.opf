@@ -39,39 +39,54 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Memoir</meta>
+		<meta property="se:subject">Nonfiction</meta>
+		<dc:description id="description">Emma Goldman recounts her experiences living in the early Soviet Union.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In 1919, at the height of the anti-leftist Palmer Raids conducted by the Wilson administration, the anarchist activist and writer &lt;a href="https://standardebooks.org/ebooks/emma-goldman"&gt;Emma Goldman&lt;/a&gt; was deported to the nascent Soviet Union. Despite initial plans to fight the deportation order in court, Goldman eventually acquiesced in order to take part in thenew revolutionary Russia herself. While initially supportive of the Bolsheviks, with some reservations, Goldman’s firsthand experiences with Bolshevik oppression and corruption prompted her titular disillusionment and eventual emigration to Germany. In &lt;i&gt;My Disillusionment in Russia&lt;/i&gt;, Goldman records her travels throughout Russia as part of a revolutionary museum commission and her interactions with a variety of political and literary figures like Vladimir Lenin, Maxim Gorky, &lt;a href="https://standardebooks.org/ebooks/john-reed"&gt;John Reed&lt;/a&gt;, and &lt;a href="https://standardebooks.org/ebooks/peter-kropotkin"&gt;Peter Kropotkin&lt;/a&gt;. Goldman concludes her account with a critique of the Bolshevik ideology in which she asserts that revolutionary change in instutitions cannot take place without corresponding changes in values.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;My Disillusionment in Russia&lt;/i&gt; had a troubled publication history, since the first American printing in 1923 omitted the last twelve chapters of what was supposed to be a thirty-three chapter book. (Somehow, the last chapters failed to reach the publisher, who did not suspect the book to be incomplete.) The situation was remedied with the publication of the remaining chapters in 1924 as part of a volume titled &lt;i&gt;My Further Disillusionment in Russia&lt;/i&gt;. This Standard Ebooks production compiles all of the chapters of the original manuscript (i.e., both &lt;i&gt;My Disillusionment in Russia&lt;/i&gt; and &lt;i&gt;My Further Disillusionment in Russia&lt;/i&gt;) into a single volume.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/60315</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.74435</dc:source>
+		<dc:source>https://theanarchistlibrary.org/library/emma-goldman-my-further-disillusionment-in-russia</dc:source>
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.58226</dc:source>
+		<meta property="se:production-notes">This production uses the American printings for the transcription and scans, but takes its structural cues from the thirty-three chapter British printing (https://catalog.hathitrust.org/Record/006048096).</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/My_Disillusionment_in_Russia</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/emma-goldman_my-disillusionment-in-russia</meta>
 		<dc:creator id="author">Emma Goldman</dc:creator>
 		<meta property="file-as" refines="#author">Goldman, Emma</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Emma_Goldman</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50034593</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Abraham Manievich</dc:contributor>
+		<meta property="file-as" refines="#artist">Manievich, Abraham</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Abraham Anshelovich Manievich</meta>
+		<meta property="alternate-script" refines="#artist">Абра́м Анше́лович Мане́вич</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Abraham_A._Manievich</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2009070097</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Tim Lindell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Lindell, Tim</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-2">Martin Pettit</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Pettit, Martin</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">Dana Ward</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Ward, Dana</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">http://dwardmac.pitzer.edu</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://weijiarhymeswith.asia</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
